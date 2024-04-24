@@ -2,7 +2,8 @@
 
 
 # Aim : 
-
+##NAME : S.RAMKUMAR
+##REGISTER NUMBER : 212223220085
 To find mean and variance of arrival of objects from the feeder using probability distribution
 
 
